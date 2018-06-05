@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dependencies>
+    <!-- Elements contains all product dependencies -->
+    <ProductDependencies>
+        <-- All product dependencies are contained in Version.Props -->
+        <Dependency Name="Arcade" Version="1.0.0">
+            <Uri>https://github.com/dotnet/arcade</Uri>
+            <Sha>23498123740982349182340981234</Sha>
+        </Dependency>
+    </ProductDependencies>
+
+    <ToolsetDependencies>
+        <-- Non well-known dependency.  Expressed in Version.props -->
+        <Dependency Name="Arcade" Version="1.0.0">
+            <Uri>https://github.com/dotnet/arcade</Uri>
+            <Sha>23498123740982349182340981234</Sha>
+        </Dependency>
+    </ToolsetDependencies>
+</Dependencies>
