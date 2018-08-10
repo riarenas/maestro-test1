@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <arcade.sdkVersion>1.1.1</arcade.sdkVersion>
+    <arcadesdkVersion>1.1.1</arcadesdkVersion>
   </PropertyGroup>
 </Project>
