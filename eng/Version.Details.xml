@@ -2,9 +2,9 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="json.net" Version="1.0.0">
+    <Dependency Name="json.net" Version="1.2.1538514874">
       <Uri></Uri>
-      <Sha></Sha>
+      <Sha>sha1</Sha>
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
