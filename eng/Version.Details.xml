@@ -2,13 +2,13 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="json.net" Version="1.2.1538524594">
+    <Dependency Name="json.net" Version="1.2.1539117958">
       <Uri></Uri>
       <Sha>sha1</Sha>
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="arcade.sdk" Version="1.2.1538524587">
+    <Dependency Name="arcade.sdk" Version="1.2.1539117951">
       <Uri>https://github.com/dotnet/arcade</Uri>
       <Sha>sha1</Sha>
     </Dependency>
