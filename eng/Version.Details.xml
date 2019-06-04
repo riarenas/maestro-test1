@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <!-- Elements contains all product dependencies -->
-  <ProductDependencies></ProductDependencies>
+  <ProductDependencies>
+    <Dependency Name="Foo" Version="">
+      <Uri>https://github.com/riarenas/arcade</Uri>
+      <Sha>
+      </Sha>
+    </Dependency>
+    <Dependency Name="Bar" Version="">
+      <Uri>https://github.com/riarenas/arcade</Uri>
+      <Sha>
+      </Sha>
+    </Dependency>
+    <Dependency Name="Pizza" Version="">
+      <Uri>https://github.com/riarenas/arcade-validation</Uri>
+      <Sha>
+      </Sha>
+    </Dependency>
+    <Dependency Name="Hamburger" Version="">
+      <Uri>https://github.com/riarenas/arcade-validation</Uri>
+      <Sha>
+      </Sha>
+    </Dependency>
+  </ProductDependencies>
   <ToolsetDependencies>
     <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="1.0.0-beta.1.9.1.22.1">
       <Uri>https://github.com/dotnet/arcade</Uri>
