@@ -2,13 +2,13 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="Foo" Version="1.1.0">
+    <Dependency Name="Foo" Version="1.1.1">
       <Uri>https://github.com/riarenas/arcade</Uri>
-      <Sha>951375561</Sha>
+      <Sha>2131583545</Sha>
     </Dependency>
-    <Dependency Name="Bar" Version="1.1.0">
+    <Dependency Name="Bar" Version="1.1.1">
       <Uri>https://github.com/riarenas/arcade</Uri>
-      <Sha>951375561</Sha>
+      <Sha>2131583545</Sha>
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
