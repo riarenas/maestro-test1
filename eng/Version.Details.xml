@@ -2,25 +2,21 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="Foo" Version="">
+    <Dependency Name="Foo" Version="1.1.4">
       <Uri>https://github.com/riarenas/arcade</Uri>
-      <Sha>
-      </Sha>
+      <Sha>1379390215</Sha>
     </Dependency>
-    <Dependency Name="Bar" Version="">
+    <Dependency Name="Bar" Version="2.1.4">
       <Uri>https://github.com/riarenas/arcade</Uri>
-      <Sha>
-      </Sha>
+      <Sha>1379390215</Sha>
     </Dependency>
-    <Dependency Name="Pizza" Version="">
+    <Dependency Name="Pizza" Version="3.1.4">
       <Uri>https://github.com/riarenas/arcade-validation</Uri>
-      <Sha>
-      </Sha>
+      <Sha>1379390215</Sha>
     </Dependency>
-    <Dependency Name="Hamburger" Version="">
+    <Dependency Name="Hamburger" Version="4.1.4">
       <Uri>https://github.com/riarenas/arcade-validation</Uri>
-      <Sha>
-      </Sha>
+      <Sha>1379390215</Sha>
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
