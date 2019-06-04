@@ -10,11 +10,11 @@
       <Uri>https://github.com/riarenas/arcade</Uri>
       <Sha>487826929</Sha>
     </Dependency>
-    <Dependency Name="Pizza" Version="3.1.1">
+    <Dependency Name="Pizza" Version="3.1.2">
       <Uri>https://github.com/riarenas/arcade-validation</Uri>
       <Sha>487826929</Sha>
     </Dependency>
-    <Dependency Name="Hamburger" Version="4.1.1">
+    <Dependency Name="Hamburger" Version="4.1.2">
       <Uri>https://github.com/riarenas/arcade-validation</Uri>
       <Sha>487826929</Sha>
     </Dependency>
